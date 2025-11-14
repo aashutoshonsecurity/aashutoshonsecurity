@@ -35,27 +35,27 @@ This repository tracks my journey through the Google Cybersecurity Professional 
 - Regular updates with learning notes, hands-on projects, and practical labs.  
 - **Key areas:** Linux basics, networking fundamentals, SIEM, Python scripting for security, risk management.
 
-[Link to repository](https://github.com/<your-username>/google-cybersecurity-cert-learning)
+[Link to repository](https://github.com/aashutoshonsecurity/google-cybersecurity-cert-learning)
 
 ### **💻 `soc-portfolio`**
 A collection of my **SOC Analyst** skills and hands-on projects.
 - **Key areas:** Log analysis, incident response, Splunk query creation, network traffic analysis, SIEM configurations.  
 - Includes lab results and mini-projects.
 
-[Link to repository](https://github.com/<your-username>/soc-portfolio)
+[Link to repository](https://github.com/aashutoshonsecurity/soc-portfolio)
 
 ### **📋 `grc-portfolio`**
 A showcase of my **Governance, Risk & Compliance (GRC)** projects.
 - **Key areas:** Risk assessments, policy writing, NIST CSF mapping, compliance frameworks (ISO 27001, SOC 2, HIPAA).  
 - Includes risk registers and security control mapping.
 
-[Link to repository](https://github.com/<your-username>/grc-portfolio)
+[Link to repository](https://github.com/aashutoshonsecurity/grc-portfolio)
 
 ### **🧰 `security-automation-scripts`**
 Simple **Python scripts** for automating common cybersecurity tasks:
 - **Key areas:** Log parsing, file integrity checking, automated port scanning, hash verification, incident triage scripts.
 
-[Link to repository](https://github.com/<your-username>/security-automation-scripts)
+[Link to repository](https://github.com/aashutoshonsecurity/security-automation-scripts)
 
 ---
 
